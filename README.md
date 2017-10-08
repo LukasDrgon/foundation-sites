@@ -7,6 +7,7 @@
 [![CDNJS](https://img.shields.io/cdnjs/v/foundation.svg)](https://cdnjs.com/libraries/foundation)
 [![dependencies Status](https://david-dm.org/zurb/foundation-sites/status.svg)](https://david-dm.org/zurb/foundation-sites)
 [![devDependencies Status](https://david-dm.org/zurb/foundation-sites/dev-status.svg)](https://david-dm.org/zurb/foundation-sites?type=dev)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/foundation-sites/badge?style=rounded)](https://www.jsdelivr.com/package/npm/foundation-sites)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zurb/foundation-sites?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Foundation is the most advanced responsive front-end framework in the world. Quickly go from prototype to production, building sites or apps that work on any kind of device with Foundation. Includes a fully customizable, responsive grid, a large library of Sass mixins, commonly used JavaScript plugins, and full accessibility support.
